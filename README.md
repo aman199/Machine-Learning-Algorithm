@@ -1,6 +1,6 @@
-# Machine-Learning-Algorithm
 
-Linear Regression.
+#Linear Regression.
+
 1) Random dataset is generated using numpy random function with given specification that 1 feature variable and 1 output variable.
 2) Biases is added inorder not to overfit the data
 3) The weights are calculated using the closed formula. 
